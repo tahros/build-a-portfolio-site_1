@@ -1,0 +1,21 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+	font-weight: 700;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 400;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
